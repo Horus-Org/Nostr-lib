@@ -14,3 +14,12 @@ Library for Nostr
 - Flutter
 - Typescript
 - Rust
+
+
+## Roadmap
+
+- [ ] Event
+- [ ] Relay
+- [ ] Generate Keys
+- [ ] SDK
+- [ ] Alpha Software
