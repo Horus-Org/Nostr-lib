@@ -1,4 +1,6 @@
-# Nostr Library
+# Nostr Library 🟣
+
+**Contributions are welcome**
 
 Library for Nostr
 
