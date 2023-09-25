@@ -1,8 +1,9 @@
 # Nostr Library 🟣
 
+Library for Nostr
+
 **Contributions are welcome**
 
-Library for Nostr
 
 ## What is Nostr?
 
