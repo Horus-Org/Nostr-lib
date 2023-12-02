@@ -7,3 +7,5 @@ Theses libraries will be used for help developers via SDK
 - NIPs
 - Events
 - Relays
+- Zaps
+- APIs
