@@ -22,6 +22,8 @@ Library for Nostr
 ## Roadmap
 
 - [ ] Event
+- [ ] Initial SDK
+- [ ] Initial design
 - [ ] Relay
 - [ ] Generate Keys
 - [ ] SDK
