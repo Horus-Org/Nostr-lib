@@ -1,3 +1,3 @@
-## Nostr Library Releases
+## Nostr Library Releases and Development
 
 TBD
