@@ -28,4 +28,5 @@ Library for Nostr
 - [ ] Generate Keys
 - [ ] SDK
 - [ ] Main NIPs
+- [ ] APIs
 - [ ] Alpha Software
